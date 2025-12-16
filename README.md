@@ -1,16 +1,22 @@
-## Hi there 👋
+#Mae Duque
+## 🙋 About Me
 
-<!--
-**maeduque/maeduque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student and aspiring developer who is learning how to create and manage projects using GitHub. I enjoy building simple applications, exploring new technologies, and improving my coding skills through hands-on practice.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Basic programming and problem-solving  
+- GitHub repository management and documentation  
+- Web development fundamentals  
+
+### Tools
+- GitHub  
+- Visual Studio Code  
+- HTML, CSS, and JavaScript
+
+  ## 🔗 Connect With Me
+
+- 📘 Facebook: https://facebook.com/yourprofile  
+- 📸 Instagram: https://instagram.com/yourprofile  
+- 📧 Email: yourname@example.com
