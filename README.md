@@ -1,4 +1,4 @@
-#Mae Duque
+# Mae Duque
 ## 🙋 About Me
 
 I am a student and aspiring developer who is learning how to create and manage projects using GitHub. I enjoy building simple applications, exploring new technologies, and improving my coding skills through hands-on practice.
