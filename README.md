@@ -16,6 +16,6 @@ I am a student and aspiring developer who is learning how to create and manage p
 - HTML, CSS, and JavaScript
 
   ## 🔗 Connect With Me
--GitHub:https://github.com/maeduque
+-    GitHub:https://github.com/maeduque
 - 📘 Facebook: https://facebook.com/MaeAlfilerDuque  
 - 📧 Email: maeduque670@gmail.com
